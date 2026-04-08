@@ -9,10 +9,10 @@
 :set mouse=a
 
 call plug#begin('~/Melinoe-dotfiles/nvim/plugged')
-
 Plug 'https://github.com/vim-airline/vim-airline'
 Plug 'https://github.com/morhetz/gruvbox'
 Plug 'https://github.com/nvim-tree/nvim-tree.lua'
-
 call plug#end()
-autocmd vimenter * ++nested colorscheme gruvbox
+
+let g:gruvbox_contrast_dark = 'medium'
+colorscheme gruvbox
