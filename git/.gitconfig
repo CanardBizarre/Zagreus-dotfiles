@@ -1,3 +1,5 @@
 [user]
 	email = huynhvuongtu@gmail.com
 	name = CanardBizarre
+[pull]
+	rebase = true

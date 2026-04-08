@@ -29,4 +29,5 @@ for item in "${CONFIG_LINKS[@]}"; do
 done
 
 link_item "$DOTFILES/zsh/.zshenv" "$HOME/.zshenv"
+link_item "$DOTFILES/zsh/.zshrc" "$HOME/.zshrc"
 link_item "$DOTFILES/git/.gitconfig" "$HOME/.gitconfig"
