@@ -1,0 +1,26 @@
+
+# Cursor & Selection Colours
+#[colors.cursor]
+#cursor = "#528bff"
+#text   = "#9cdef2"
+
+
+# Primary Colours
+[colors.primary]
+background = "#282828"
+foreground = "#d4be98"
+
+
+# Normal Palette
+[colors.normal]
+black   = "#2e3440"
+red     = "#e06c75"
+green   = "#9cdef2"
+yellow  = "#e5c07b"
+blue    = "#61afef"
+magenta = "#c678dd"
+cyan    = "#9cdef2"
+white   = "#828997"
+
+[mouse]
+hide_when_typing = true

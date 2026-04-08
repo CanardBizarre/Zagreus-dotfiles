@@ -4,6 +4,7 @@ set -euo pipefail
 CONFIG_DIR="$HOME/.config"
 
 CONFIG_LINKS=(
+	alacritty
 	hypr
 	nvim
 	)
